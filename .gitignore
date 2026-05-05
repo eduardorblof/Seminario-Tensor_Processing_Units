@@ -1,0 +1,24 @@
+# Arquivos auxiliares
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+
+# Bibliografia
+*.bbl
+*.blg
+
+# latexmk
+*.fls
+*.fdb_latexmk
+
+# Outros comuns
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# PDF (opcional)
+# *.pdf
